@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Payment methods",
+  "FriendlyName": "Ray Pay",
+  "SystemName": "Payments.RayPay",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.30" ],
+  "Author": "saminray team",
+  "DisplayOrder": 10,
+  "FileName": "Nop.Plugin.Payments.RayPay.dll",
+  "Description": "این پلاگین امکان پرداخت از درگاه رای پی را فراهم می کند"
+}
